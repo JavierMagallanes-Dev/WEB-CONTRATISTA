@@ -1,0 +1,25 @@
+{
+  "nombreNegocio": "Acabados Profesionales Lima",
+  "slogan": "Expertos en Enchapado, Pintura y Acabados de Calidad",
+  "descripcion": "Más de 10 años transformando espacios en Lima",
+  "contacto": {
+    "telefono": "+51 999 888 777",
+    "email": "contacto@acabadoslima.com",
+    "whatsapp": "51999888777",
+    "horario": "Lunes a Sábado: 8:00 AM - 6:00 PM"
+  },
+  "redes": {
+    "facebook": "https://facebook.com/acabadoslima",
+    "instagram": "https://instagram.com/acabadoslima"
+  },
+  "estadisticas": {
+    "añosExperiencia": 10,
+    "proyectosCompletados": 150,
+    "clientesSatisfechos": 120
+  },
+  "seo": {
+    "titulo": "Servicios de Construcción y Acabados en Lima | Acabados Profesionales",
+    "descripcion": "Expertos en enchapado, pintura, drywall y electricidad. Garantía de calidad y años de experiencia.",
+    "keywords": "acabados lima, pintura lima, enchapado, drywall, construcción"
+  }
+}

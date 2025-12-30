@@ -1,0 +1,112 @@
+[
+  {
+    "id": "enchapado",
+    "slug": "enchapado-ceramicos",
+    "nombre": "Enchapado y Colocación de Cerámicos",
+    "descripcionCorta": "Instalación profesional de cerámicos en pisos, baños y paredes.",
+    "descripcionLarga": "Ofrecemos servicios completos de enchapado y colocación de cerámicos con los más altos estándares de calidad. Trabajamos con materiales de primera línea y técnicas profesionales que garantizan acabados perfectos y duraderos.",
+    "icono": "grid-3x3",
+    "imagen": "/servicios/enchapado.jpg",
+    "orden": 1,
+    "destacado": true,
+    "beneficios": [
+      "Nivelación perfecta y acabados impecables",
+      "Trabajo limpio y ordenado",
+      "Asesoramiento en elección de materiales",
+      "Garantía de 1 año en mano de obra"
+    ],
+    "proceso": [
+      "Evaluación del espacio y mediciones",
+      "Preparación de superficies",
+      "Instalación profesional",
+      "Acabados y limpieza final"
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Cuánto tiempo toma instalar cerámicos en un baño?",
+        "respuesta": "Dependiendo del tamaño, entre 3 a 5 días hábiles."
+      },
+      {
+        "pregunta": "¿Proveen los materiales?",
+        "respuesta": "Podemos proveer materiales o trabajar con los que el cliente compre."
+      }
+    ]
+  },
+  {
+    "id": "pintura",
+    "slug": "pintura",
+    "nombre": "Servicios de Pintura",
+    "descripcionCorta": "Pintura interior y exterior con materiales premium.",
+    "descripcionLarga": "Servicios completos de pintura residencial y comercial con preparación de superficies, aplicación profesional y acabados de primera calidad.",
+    "icono": "paintbrush",
+    "imagen": "/servicios/pintura.jpg",
+    "orden": 2,
+    "destacado": true,
+    "beneficios": [
+      "Preparación de superficies incluida",
+      "Pinturas premium de larga duración",
+      "Acabados lisos sin marcas",
+      "Limpieza completa al finalizar"
+    ],
+    "proceso": [
+      "Evaluación y preparación",
+      "Resanado y lijado",
+      "Aplicación de pintura",
+      "Revisión de acabados"
+    ],
+    "faqs": [
+      {
+        "pregunta": "¿Qué marcas de pintura usan?",
+        "respuesta": "Trabajamos con Vencedor, CPP y otras marcas premium."
+      }
+    ]
+  },
+  {
+    "id": "drywall",
+    "slug": "drywall",
+    "nombre": "Instalación de Drywall",
+    "descripcionCorta": "Construcción de tabiques y cielos rasos modernos.",
+    "descripcionLarga": "Instalación profesional de sistemas drywall para tabiques, cielos rasos y remodelaciones. Trabajos rápidos, limpios y con acabados perfectos.",
+    "icono": "box",
+    "imagen": "/servicios/drywall.jpg",
+    "orden": 3,
+    "destacado": true,
+    "beneficios": [
+      "Instalación rápida y limpia",
+      "Acabados perfectamente nivelados",
+      "Aislamiento térmico y acústico",
+      "Estructuras resistentes"
+    ],
+    "proceso": [
+      "Diseño y mediciones",
+      "Instalación de estructura",
+      "Colocación de placas",
+      "Acabados y pintura"
+    ],
+    "faqs": []
+  },
+  {
+    "id": "electricidad",
+    "slug": "electricidad",
+    "nombre": "Servicios de Electricidad",
+    "descripcionCorta": "Instalaciones eléctricas seguras y certificadas.",
+    "descripcionLarga": "Servicios eléctricos residenciales completos: instalación, reparación y mantenimiento con todas las normas de seguridad.",
+    "icono": "zap",
+    "imagen": "/servicios/electricidad.jpg",
+    "orden": 4,
+    "destacado": false,
+    "beneficios": [
+      "Trabajo certificado y seguro",
+      "Materiales con garantía",
+      "Cumplimiento de normativa",
+      "Atención de emergencias"
+    ],
+    "proceso": [
+      "Diagnóstico eléctrico",
+      "Planificación de instalación",
+      "Ejecución del trabajo",
+      "Pruebas y certificación"
+    ],
+    "faqs": []
+  }
+]

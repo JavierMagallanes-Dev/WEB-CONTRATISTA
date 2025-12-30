@@ -1,0 +1,31 @@
+{
+  "slug": "remodelacion-bano-ejemplo",
+  "titulo": "Remodelación Completa de Baño en San Isidro",
+  "servicio": "enchapado",
+  "servicioNombre": "Enchapado y Cerámicos",
+  "descripcion": "Renovación total de baño principal con enchapado de cerámicos de porcelana, instalación de sanitarios y acabados premium. El proyecto incluyó demolición, instalación de nuevas tuberías, impermeabilización y colocación de cerámicos de alta gama.",
+  "ubicacion": "San Isidro, Lima",
+  "fecha": "2024-11",
+  "duracionDias": 8,
+  "metrosCuadrados": 12,
+  "destacado": true,
+  "visible": true,
+  "imagenes": {
+    "principal": "/proyectos/bano-ejemplo/principal.jpg",
+    "antes": "/proyectos/bano-ejemplo/antes.jpg",
+    "despues": "/proyectos/bano-ejemplo/despues.jpg",
+    "galeria": [
+      "/proyectos/bano-ejemplo/detalle-1.jpg",
+      "/proyectos/bano-ejemplo/detalle-2.jpg"
+    ]
+  },
+  "detalles": {
+    "materiales": "Cerámicos porcelánicos importados, adhesivos premium",
+    "garantia": "1 año en mano de obra",
+    "cliente": "Residencia privada"
+  },
+  "seo": {
+    "titulo": "Remodelación de Baño en San Isidro - Enchapado Premium",
+    "descripcion": "Proyecto de renovación completa de baño con enchapado de cerámicos de alta gama en San Isidro, Lima."
+  }
+}
