@@ -1,6 +1,7 @@
 'use client'
 
 import Link from 'next/link'
+import Image from 'next/image'
 import { Menu, X, Phone } from 'lucide-react'
 import { useState } from 'react'
 import { Button } from '@/components/ui/button'
@@ -20,8 +21,15 @@ export default function Header({ config }) {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link href="/" className="font-display font-bold text-xl text-primary-600 hover:text-primary-700 transition">
-            {config.nombreNegocio}
+          <Link href="/" className="flex items-center hover:opacity-80 transition-opacity">
+            <Image 
+              src="/logowebf.png" 
+              alt={config.nombreNegocio}
+              width={160}
+              height={50}
+              priority
+              className="w-auto"
+            />
           </Link>
 
           {/* Desktop Navigation */}
